@@ -5,7 +5,7 @@ output: html_document
 
 ---
 
-<h2>Feature Selection </h2> 
+<h3>Feature Selection </h3> 
 
 
 <p>
@@ -16,7 +16,7 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals). 
 </p>
 
-These signals were used to estimate <b>mean and standard deviation</b> of the feature vector for each pattern:  
+These signals were used to estimate <mark><strong>mean and standard deviation</strong></mark> of the feature vector for each pattern:  
 '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 <ul>
 <li>tBodyAcc-XYZ</li>
